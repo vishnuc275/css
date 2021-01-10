@@ -1,0 +1,10 @@
+body {
+	background: green;
+}
+h1 {
+	color: red;
+	font-size: 60px;
+}
+p {
+	font-style: italic;
+}
